@@ -1,0 +1,25 @@
+{
+    "name": "line-number-aggregate",
+    "version": "1.0.0",
+    "description": "add line number to the input file",
+    "keywords": ["linenumber", "file"],
+    "license": "MIT",
+    "homepage": "https://github.com/coolwust/line-number-aggregate",
+    "bug": "https://github.com/coolwust/line-number-aggregate/issues",
+    "author": {
+        "name": "coolwust",
+        "email": "coolwust@gmail.com"
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/coolwust/line-number-aggregate"
+    },
+    "engines": {
+        "node": ">=0.12.0"
+    },
+    "devDependencies": {
+        "mocha": ">=2",
+        "chai": ">=3"
+    }
+}
